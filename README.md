@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Tanjil Sami
 #### I'm a Programmar
-![I'm a Programmar](https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-6/305846540_594459058883474_2667080113501641954_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEmoXjhLUryILakDJd2isOcr8nrdGXCL3yvyet0ZcIvfGe5lXWhPe2ZbjA7LLYQbkr7rC9pDjHiuSZ9WVcCofT6&_nc_ohc=ImwG-uNp2OIQ7kNvgFVS7ck&_nc_ht=scontent.fzyl1-1.fna&oh=00_AYCr6r2o75hv583LucoZUWYpwlG3mPXve_ZxTdcqghZAng&oe=666254BE)
 
 I'm a Front End Web developer who is passionate about making error free websites with 100% client satisfaction. I have passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goaloriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, javaScript as well as PHP.
 
